@@ -10,7 +10,7 @@ Veja como está a tela de login no navegador:
 
 🔗 [Acessar aplicação online](https://wevertonsantos.github.io/login-form/)
 
-<img src="https://wevertonsantos.github.io/login-form/preview.png" alt="Preview do Login Form" width="500"/>
+<img src="https://raw.githubusercontent.com/wevertonsantos/login-form/refs/heads/main/preview.png" alt="Preview do Login Form" width="500"/>
 
 ## 🛠️ Tecnologias Utilizadas
 
