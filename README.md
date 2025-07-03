@@ -22,8 +22,7 @@ Veja como está a tela de login no navegador:
 
 ```bash
 📦 login-form/
-├── index.html           # Página principal com o formulário
-├── css/
-│   └── style.css        # Estilos personalizados
-├── assets/              # (opcional) imagens, logos etc.
-├── README.md            # Este arquivo
+├── index.html       # Página principal com o formulário
+├── style.css        # Estilos personalizados
+├── README.md        # Este arquivo
+```
