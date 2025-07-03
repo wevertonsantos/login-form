@@ -18,6 +18,13 @@ Veja como está a tela de login no navegador:
 - CSS3
 - [Bootstrap 5](https://getbootstrap.com/)
 
+## 🧠 O que aprendi com este projeto
+
+- Como estruturar um formulário moderno usando Bootstrap
+- Responsividade com grid do Bootstrap
+- Estilização personalizada de campos com CSS
+- Uso de classes utilitárias do Bootstrap para alinhamento e espaçamento
+
 ## 📁 Estrutura do Projeto
 
 ```bash
