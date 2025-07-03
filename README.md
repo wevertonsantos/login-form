@@ -1,13 +1,29 @@
-## Sobre o repositório - Login Form
+# 🔐 Login Form - Tela de Login com Bootstrap
 
-Desenvolvendo tela de login de formulário para aprender mais sobre Bootstrap.
+Este projeto foi desenvolvido com o objetivo de praticar a criação de uma **interface de login moderna e responsiva**, utilizando **HTML**, **CSS** e o framework **Bootstrap**.
 
-## Tecnologias utilizadas
+O foco principal é o front-end visual: aprender mais sobre **componentes do Bootstrap**, estruturação com grid e estilização de formulários.
 
-- HTML
-- CSS
-- [Bootstrap](https://getbootstrap.com/)
+## 📸 Preview
 
-## Deploy da aplicação
+Veja como está a tela de login no navegador:
 
-https://wevertonsantos.github.io/login-form/
+🔗 [Acessar aplicação online](https://wevertonsantos.github.io/login-form/)
+
+<img src="https://wevertonsantos.github.io/login-form/preview.png" alt="Preview do Login Form" width="500"/>
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- [Bootstrap 5](https://getbootstrap.com/)
+
+## 📁 Estrutura do Projeto
+
+```bash
+📦 login-form/
+├── index.html           # Página principal com o formulário
+├── css/
+│   └── style.css        # Estilos personalizados
+├── assets/              # (opcional) imagens, logos etc.
+├── README.md            # Este arquivo
